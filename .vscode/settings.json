@@ -1,0 +1,6 @@
+{
+    "editor.renderWhitespace": "trailing",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "wordWrapColumn",
+    "files.autoSave": "onWindowChange"
+}
