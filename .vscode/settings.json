@@ -2,5 +2,7 @@
     "editor.renderWhitespace": "trailing",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.wordWrap": "wordWrapColumn",
-    "files.autoSave": "onWindowChange"
+    "files.autoSave": "onWindowChange",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.defaultFormatter": "vscode.json-language-features"
 }
